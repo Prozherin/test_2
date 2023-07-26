@@ -23,3 +23,6 @@ git
 rrrrrrrr
 * git status - команда вызывает блок инф.
 * git branch -команда выводящая все ветки
+
+
+tttttttt
