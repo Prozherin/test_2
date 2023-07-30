@@ -25,4 +25,4 @@ rrrrrrrr
 * git branch -команда выводящая все ветки
 
 git log
-tttttttt
+git merge - объединение веток
