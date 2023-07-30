@@ -26,3 +26,5 @@ rrrrrrrr
 
 git log
 git merge - объединение веток
+
+123
